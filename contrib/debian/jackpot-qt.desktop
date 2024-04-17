@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=OZTG 
+Comment=OZTG P2P Cryptocurrency
+Comment[fr]=OZTG, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OZTG, eşten eşe kriptografik sanal para birimi
+Exec=OZTG-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/OZTG;
+Categories=Office;Finance;
+StartupWMClass=OZTG-qt

@@ -1,0 +1,11 @@
+[Protocol]
+exec=OZTG-qt '%u'
+protocol=OZTG
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
