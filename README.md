@@ -5,6 +5,10 @@ So we offer a manual swap!
 
 Masternode Collateral: 10000
 
+Buy OZTG on Cratex Exchange: 
+```bash
+https://cratex.io/darkhak.php?pair=OZTG/CRATX
+```
 ------
 
 How to contact us:
@@ -28,8 +32,20 @@ or telegram @derikglobal
 • Maturity: 30 Confirmations  
 • Ports: 28165 (p2p) / 28164 (rpc)
 
-• Explorer: http://oztgexplorer.masternodes.guru
+• Explorer: http://188.166.65.234:3002
 
+Website: 
+```bash
+https://masternodes.guru/oztg
+```
+Twitter: 
+```bash
+https://twitter.com/ozeetycoin
+```
+Telegram: 
+```bash
+https://t.me/ozeetycoinrestart
+```
 
 ### Rewards Breakdown
 <table border=0 cellpadding=0 cellspacing=0 width=701 class=xl6553517252
